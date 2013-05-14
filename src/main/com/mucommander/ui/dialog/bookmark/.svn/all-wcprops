@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/bookmark
+END
+AddBookmarkDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/bookmark/AddBookmarkDialog.java
+END
+EditBookmarksDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/bookmark/EditBookmarksDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/dialog/bookmark/package.html
+END

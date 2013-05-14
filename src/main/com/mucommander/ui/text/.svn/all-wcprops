@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/text
+END
+FileLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/text/FileLabel.java
+END
+FilePathField.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/text/FilePathField.java
+END
+KeyStrokeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/text/KeyStrokeUtils.java
+END
+MultiLineLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/text/MultiLineLabel.java
+END
+SizeConstrainedDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/text/SizeConstrainedDocument.java
+END
+RecordingKeyStrokeTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/text/RecordingKeyStrokeTextField.java
+END
+FontUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/text/FontUtils.java
+END

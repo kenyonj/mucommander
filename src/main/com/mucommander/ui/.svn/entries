@@ -1,0 +1,106 @@
+10
+
+dir
+3965
+https://svn.mucommander.com/mucommander/trunk/src/main/com/mucommander/ui
+https://svn.mucommander.com/mucommander
+
+
+
+2013-03-29T12:59:28.229285Z
+3963
+arik.hadas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+550a0b29-e8ba-4216-b148-48df7e53fc2c
+
+helper
+dir
+
+notifier
+dir
+
+event
+dir
+
+main
+dir
+
+text
+dir
+
+encoding
+dir
+
+table
+dir
+
+icon
+dir
+
+tabs
+dir
+
+macosx
+dir
+
+dialog
+dir
+
+autocomplete
+dir
+
+viewer
+dir
+
+quicksearch
+dir
+
+theme
+dir
+
+chooser
+dir
+
+popup
+dir
+
+progress
+dir
+
+dnd
+dir
+
+combobox
+dir
+
+quicklist
+dir
+
+list
+dir
+
+button
+dir
+
+layout
+dir
+
+border
+dir
+
+action
+dir
+

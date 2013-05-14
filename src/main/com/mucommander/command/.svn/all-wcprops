@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/command
+END
+AssociationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/command/AssociationReader.java
+END
+CommandReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/command/CommandReader.java
+END
+AssociationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/command/AssociationFactory.java
+END
+CommandManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/command/CommandManager.java
+END
+AssociationWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/command/AssociationWriter.java
+END
+CommandWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/command/CommandWriter.java
+END
+CommandAssociation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/command/CommandAssociation.java
+END
+AssociationsXmlConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/command/AssociationsXmlConstants.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/command/package.html
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/command/Command.java
+END
+CommandsXmlConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/command/CommandsXmlConstants.java
+END
+CommandType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/command/CommandType.java
+END
+PermissionsFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/command/PermissionsFileFilter.java
+END
+AssociationBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/command/AssociationBuilder.java
+END
+CommandBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3942/trunk/src/main/com/mucommander/command/CommandBuilder.java
+END
+CommandException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/command/CommandException.java
+END

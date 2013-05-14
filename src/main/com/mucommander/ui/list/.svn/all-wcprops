@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mucommander/!svn/ver/3798/trunk/src/main/com/mucommander/ui/list
+END
+DynamicList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3798/trunk/src/main/com/mucommander/ui/list/DynamicList.java
+END
+DynamicHorizontalWrapList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/list/DynamicHorizontalWrapList.java
+END
+SortableListPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/list/SortableListPanel.java
+END
+FileList.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/list/FileList.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/list/package.html
+END

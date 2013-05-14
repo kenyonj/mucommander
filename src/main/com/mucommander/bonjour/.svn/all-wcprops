@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/bonjour
+END
+BonjourService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/bonjour/BonjourService.java
+END
+BonjourDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/bonjour/BonjourDirectory.java
+END
+BonjourMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/bonjour/BonjourMenu.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/bonjour/package.html
+END

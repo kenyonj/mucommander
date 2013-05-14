@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/main/commandbar
+END
+CommandBarButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/main/commandbar/CommandBarButton.java
+END
+CommandBarAttributesListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/main/commandbar/CommandBarAttributesListener.java
+END
+CommandBarWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/main/commandbar/CommandBarWriter.java
+END
+CommandBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/main/commandbar/CommandBar.java
+END
+CommandBarReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/main/commandbar/CommandBarReader.java
+END
+CommandBarAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/main/commandbar/CommandBarAttributes.java
+END
+CommandBarIO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/main/commandbar/CommandBarIO.java
+END
+CommandBarButtonForDisplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/main/commandbar/CommandBarButtonForDisplay.java
+END

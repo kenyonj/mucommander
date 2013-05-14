@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dnd
+END
+ClipboardNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/dnd/ClipboardNotifier.java
+END
+FileDropTargetListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/dnd/FileDropTargetListener.java
+END
+FileDragSourceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dnd/FileDragSourceListener.java
+END
+TransferableFileSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3839/trunk/src/main/com/mucommander/ui/dnd/TransferableFileSet.java
+END
+DnDContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dnd/DnDContext.java
+END
+ClipboardSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dnd/ClipboardSupport.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/dnd/package.html
+END

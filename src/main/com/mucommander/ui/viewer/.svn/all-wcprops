@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3958/trunk/src/main/com/mucommander/ui/viewer
+END
+EditorFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3906/trunk/src/main/com/mucommander/ui/viewer/EditorFrame.java
+END
+FileViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/viewer/FileViewer.java
+END
+ViewerRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3906/trunk/src/main/com/mucommander/ui/viewer/ViewerRegistrar.java
+END
+WarnUserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/viewer/WarnUserException.java
+END
+FileEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/viewer/FileEditor.java
+END
+FilePresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3908/trunk/src/main/com/mucommander/ui/viewer/FilePresenter.java
+END
+UserCancelledException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/viewer/UserCancelledException.java
+END
+EditorRegistrar.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3906/trunk/src/main/com/mucommander/ui/viewer/EditorRegistrar.java
+END
+ViewerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/viewer/ViewerFactory.java
+END
+FileFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3908/trunk/src/main/com/mucommander/ui/viewer/FileFrame.java
+END
+ViewerFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3906/trunk/src/main/com/mucommander/ui/viewer/ViewerFrame.java
+END
+EditorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/viewer/EditorFactory.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/viewer/package.html
+END

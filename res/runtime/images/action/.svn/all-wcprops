@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action
+END
+SetSameFolder.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/SetSameFolder.png
+END
+CloseWindow.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/CloseWindow.png
+END
+Refresh.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/Refresh.png
+END
+RevealInDesktop.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/RevealInDesktop.png
+END
+ShowPreferences.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/ShowPreferences.png
+END
+Delete.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/Delete.png
+END
+EditCredentials.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/EditCredentials.png
+END
+UnmarkGroup.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/UnmarkGroup.png
+END
+Pack.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/Pack.png
+END
+Unpack.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/Unpack.png
+END
+Stop.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/Stop.png
+END
+LocalCopy.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/LocalCopy.png
+END
+GoBack.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/GoBack.png
+END
+Email.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/Email.png
+END
+SwapFolders.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/SwapFolders.png
+END
+GoForward.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/GoForward.png
+END
+ShowFileProperties.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/ShowFileProperties.png
+END
+EditBookmarks.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/EditBookmarks.png
+END
+RunCommand.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/RunCommand.png
+END
+Move.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/Move.png
+END
+Mkdir.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/Mkdir.png
+END
+Rename.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/Rename.png
+END
+Mkfile.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/Mkfile.png
+END
+MarkGroup.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/MarkGroup.png
+END
+ReportBug.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/ReportBug.png
+END
+ShowServerConnections.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/ShowServerConnections.png
+END
+Copy.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/Copy.png
+END
+View.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/View.png
+END
+PermanentDelete.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/PermanentDelete.png
+END
+AddBookmark.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/AddBookmark.png
+END
+NewWindow.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/action/NewWindow.png
+END
+GoToHome.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/GoToHome.png
+END
+GoToParent.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/GoToParent.png
+END
+ConnectToServer.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/action/ConnectToServer.png
+END
+Edit.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/action/Edit.png
+END

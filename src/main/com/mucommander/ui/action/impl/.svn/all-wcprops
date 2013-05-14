@@ -1,0 +1,1043 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3963/trunk/src/main/com/mucommander/ui/action/impl
+END
+OpenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3960/trunk/src/main/com/mucommander/ui/action/impl/OpenAction.java
+END
+SelectForwardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectForwardAction.java
+END
+ToggleToolBarAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/action/impl/ToggleToolBarAction.java
+END
+MoveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MoveAction.java
+END
+CopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/CopyAction.java
+END
+SelectNextPageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectNextPageAction.java
+END
+MuteProxyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MuteProxyAction.java
+END
+FocusPreviousAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/FocusPreviousAction.java
+END
+SelectBackwardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectBackwardAction.java
+END
+RecallWindow6Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallWindow6Action.java
+END
+MarkNextRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkNextRowAction.java
+END
+LocalCopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/action/impl/LocalCopyAction.java
+END
+UnmarkAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/UnmarkAllAction.java
+END
+EmailAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/EmailAction.java
+END
+ExploreBookmarksAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3878/trunk/src/main/com/mucommander/ui/action/impl/ExploreBookmarksAction.java
+END
+SelectedFileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectedFileAction.java
+END
+SelectNextBlockAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectNextBlockAction.java
+END
+SwapFoldersAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SwapFoldersAction.java
+END
+GoToParentInOtherPanelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mucommander/!svn/ver/3875/trunk/src/main/com/mucommander/ui/action/impl/GoToParentInOtherPanelAction.java
+END
+SplitFileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/SplitFileAction.java
+END
+CombineFilesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/CombineFilesAction.java
+END
+DeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/DeleteAction.java
+END
+PopupLeftDriveButtonAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mucommander/!svn/ver/3880/trunk/src/main/com/mucommander/ui/action/impl/PopupLeftDriveButtonAction.java
+END
+ReportBugAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ReportBugAction.java
+END
+MinimizeWindowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MinimizeWindowAction.java
+END
+MarkToLastRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkToLastRowAction.java
+END
+ShowQuickListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ShowQuickListAction.java
+END
+RecallWindow1Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallWindow1Action.java
+END
+GoToRootAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3875/trunk/src/main/com/mucommander/ui/action/impl/GoToRootAction.java
+END
+SortBySizeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SortBySizeAction.java
+END
+PackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/PackAction.java
+END
+FocusNextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/FocusNextAction.java
+END
+SelectFirstRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectFirstRowAction.java
+END
+OpenURLInBrowserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/OpenURLInBrowserAction.java
+END
+ShowKeyboardShortcutsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ShowKeyboardShortcutsAction.java
+END
+ToggleHiddenFilesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/action/impl/ToggleHiddenFilesAction.java
+END
+CloseOtherTabsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3920/trunk/src/main/com/mucommander/ui/action/impl/CloseOtherTabsAction.java
+END
+RecallWindow9Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallWindow9Action.java
+END
+EditAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/EditAction.java
+END
+MarkNextPageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkNextPageAction.java
+END
+GoToParentInBothPanelsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mucommander/!svn/ver/3875/trunk/src/main/com/mucommander/ui/action/impl/GoToParentInBothPanelsAction.java
+END
+MarkBackwardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkBackwardAction.java
+END
+RecallWindowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/action/impl/RecallWindowAction.java
+END
+GoForwardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3878/trunk/src/main/com/mucommander/ui/action/impl/GoForwardAction.java
+END
+ShowRecentLocationsQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ShowRecentLocationsQLAction.java
+END
+GoToWebsiteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/GoToWebsiteAction.java
+END
+TogglePermissionsColumnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/TogglePermissionsColumnAction.java
+END
+ActiveTabAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3872/trunk/src/main/com/mucommander/ui/action/impl/ActiveTabAction.java
+END
+EditCredentialsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/EditCredentialsAction.java
+END
+SelectNextRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectNextRowAction.java
+END
+OpenInOtherPanelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3878/trunk/src/main/com/mucommander/ui/action/impl/OpenInOtherPanelAction.java
+END
+CopyFilePathsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/CopyFilePathsAction.java
+END
+CheckForUpdatesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/CheckForUpdatesAction.java
+END
+CloseDuplicateTabsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mucommander/!svn/ver/3920/trunk/src/main/com/mucommander/ui/action/impl/CloseDuplicateTabsAction.java
+END
+ToggleOwnerColumnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ToggleOwnerColumnAction.java
+END
+ViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ViewAction.java
+END
+RecallWindow4Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallWindow4Action.java
+END
+AddBookmarkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/AddBookmarkAction.java
+END
+UnpackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/UnpackAction.java
+END
+GoToParentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3875/trunk/src/main/com/mucommander/ui/action/impl/GoToParentAction.java
+END
+SortByAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SortByAction.java
+END
+SetTabTitleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/SetTabTitleAction.java
+END
+StopAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3828/trunk/src/main/com/mucommander/ui/action/impl/StopAction.java
+END
+OpenInNewTabAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3823/trunk/src/main/com/mucommander/ui/action/impl/OpenInNewTabAction.java
+END
+OpenLocationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3880/trunk/src/main/com/mucommander/ui/action/impl/OpenLocationAction.java
+END
+ToggleExtensionColumnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ToggleExtensionColumnAction.java
+END
+ShowFilePropertiesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ShowFilePropertiesAction.java
+END
+ToggleColumnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ToggleColumnAction.java
+END
+DuplicateTabAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3920/trunk/src/main/com/mucommander/ui/action/impl/DuplicateTabAction.java
+END
+GoToDocumentationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/GoToDocumentationAction.java
+END
+RunCommandAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/RunCommandAction.java
+END
+OpenTrashAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/OpenTrashAction.java
+END
+SelectPreviousRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectPreviousRowAction.java
+END
+ToggleAutoSizeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/action/impl/ToggleAutoSizeAction.java
+END
+BringAllToFrontAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/BringAllToFrontAction.java
+END
+MkfileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MkfileAction.java
+END
+OpenInBothPanelsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3878/trunk/src/main/com/mucommander/ui/action/impl/OpenInBothPanelsAction.java
+END
+RecallWindow7Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallWindow7Action.java
+END
+NewWindowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3891/trunk/src/main/com/mucommander/ui/action/impl/NewWindowAction.java
+END
+ConnectToServerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/ConnectToServerAction.java
+END
+AbstractViewerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/AbstractViewerAction.java
+END
+GoBackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3878/trunk/src/main/com/mucommander/ui/action/impl/GoBackAction.java
+END
+ShowRecentExecutedFilesQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ShowRecentExecutedFilesQLAction.java
+END
+MarkToFirstRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkToFirstRowAction.java
+END
+RevealInDesktopAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/action/impl/RevealInDesktopAction.java
+END
+EmptyTrashAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/EmptyTrashAction.java
+END
+ToggleCommandBarAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/action/impl/ToggleCommandBarAction.java
+END
+BatchRenameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/BatchRenameAction.java
+END
+ShowDebugConsoleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ShowDebugConsoleAction.java
+END
+ShowServerConnectionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/ShowServerConnectionsAction.java
+END
+RecallWindow2Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallWindow2Action.java
+END
+SortByPermissionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SortByPermissionsAction.java
+END
+InternalEditAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/InternalEditAction.java
+END
+ChangeDateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/ChangeDateAction.java
+END
+MarkPreviousPageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkPreviousPageAction.java
+END
+ParentFolderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3799/trunk/src/main/com/mucommander/ui/action/impl/ParentFolderAction.java
+END
+RecallPreviousWindowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallPreviousWindowAction.java
+END
+ShowTabsQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3805/trunk/src/main/com/mucommander/ui/action/impl/ShowTabsQLAction.java
+END
+SplitEquallyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SplitEquallyAction.java
+END
+SelectLastRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectLastRowAction.java
+END
+SortByOwnerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SortByOwnerAction.java
+END
+CopyFileNamesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/CopyFileNamesAction.java
+END
+ToggleTreeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ToggleTreeAction.java
+END
+ShowPreferencesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/ShowPreferencesAction.java
+END
+MarkSelectedFileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkSelectedFileAction.java
+END
+MarkNextBlockAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkNextBlockAction.java
+END
+NextTabAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3920/trunk/src/main/com/mucommander/ui/action/impl/NextTabAction.java
+END
+CustomizeCommandBarAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/CustomizeCommandBarAction.java
+END
+ShowParentFoldersQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ShowParentFoldersQLAction.java
+END
+RenameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RenameAction.java
+END
+InternalViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/InternalViewAction.java
+END
+ToggleStatusBarAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/action/impl/ToggleStatusBarAction.java
+END
+MaximizeWindowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MaximizeWindowAction.java
+END
+CloneTabToOtherPanelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mucommander/!svn/ver/3920/trunk/src/main/com/mucommander/ui/action/impl/CloneTabToOtherPanelAction.java
+END
+RecallWindow5Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallWindow5Action.java
+END
+PasteClipboardFilesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/action/impl/PasteClipboardFilesAction.java
+END
+MarkPreviousRowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkPreviousRowAction.java
+END
+SortByExtensionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SortByExtensionAction.java
+END
+MoveTabToOtherPanelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3920/trunk/src/main/com/mucommander/ui/action/impl/MoveTabToOtherPanelAction.java
+END
+ShowBookmarksQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ShowBookmarksQLAction.java
+END
+SelectPreviousBlockAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectPreviousBlockAction.java
+END
+RecallNextWindowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallNextWindowAction.java
+END
+CloseWindowAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/CloseWindowAction.java
+END
+SortByGroupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SortByGroupAction.java
+END
+ShowRootFoldersQLAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ShowRootFoldersQLAction.java
+END
+MarkPreviousBlockAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkPreviousBlockAction.java
+END
+PreviousTabAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3920/trunk/src/main/com/mucommander/ui/action/impl/PreviousTabAction.java
+END
+GoToForumsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/GoToForumsAction.java
+END
+SwitchActiveTableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SwitchActiveTableAction.java
+END
+MkdirAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MkdirAction.java
+END
+ShowAboutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ShowAboutAction.java
+END
+SelectedFilesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectedFilesAction.java
+END
+PermanentDeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/PermanentDeleteAction.java
+END
+OpenNativelyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/OpenNativelyAction.java
+END
+InvertSelectionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/InvertSelectionAction.java
+END
+CommandAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/action/impl/CommandAction.java
+END
+ReverseSortOrderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ReverseSortOrderAction.java
+END
+AddTabAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3963/trunk/src/main/com/mucommander/ui/action/impl/AddTabAction.java
+END
+MarkForwardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkForwardAction.java
+END
+CalculateChecksumAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/CalculateChecksumAction.java
+END
+SortByDateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SortByDateAction.java
+END
+ProxyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ProxyAction.java
+END
+RecallWindow8Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallWindow8Action.java
+END
+MarkAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkAllAction.java
+END
+SortByNameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SortByNameAction.java
+END
+MarkExtensionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/MarkExtensionAction.java
+END
+SplitVerticallyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SplitVerticallyAction.java
+END
+RecallWindow10Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallWindow10Action.java
+END
+CloseTabAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3920/trunk/src/main/com/mucommander/ui/action/impl/CloseTabAction.java
+END
+ToggleDateColumnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ToggleDateColumnAction.java
+END
+RefreshAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RefreshAction.java
+END
+GarbageCollectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/GarbageCollectAction.java
+END
+CompareFoldersAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/CompareFoldersAction.java
+END
+MarkGroupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/MarkGroupAction.java
+END
+SelectPreviousPageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SelectPreviousPageAction.java
+END
+ToggleShowFoldersFirstAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/action/impl/ToggleShowFoldersFirstAction.java
+END
+DonateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/DonateAction.java
+END
+SplitHorizontallyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/SplitHorizontallyAction.java
+END
+UnmarkGroupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/UnmarkGroupAction.java
+END
+ToggleGroupColumnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ToggleGroupColumnAction.java
+END
+RecallWindow3Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/RecallWindow3Action.java
+END
+ChangeLocationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3878/trunk/src/main/com/mucommander/ui/action/impl/ChangeLocationAction.java
+END
+FileAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/FileAction.java
+END
+CopyFilesToClipboardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/CopyFilesToClipboardAction.java
+END
+ChangePermissionsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/ChangePermissionsAction.java
+END
+GoToHomeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3878/trunk/src/main/com/mucommander/ui/action/impl/GoToHomeAction.java
+END
+ToggleLockTabAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3920/trunk/src/main/com/mucommander/ui/action/impl/ToggleLockTabAction.java
+END
+QuitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/QuitAction.java
+END
+PopupRightDriveButtonAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mucommander/!svn/ver/3880/trunk/src/main/com/mucommander/ui/action/impl/PopupRightDriveButtonAction.java
+END
+CopyFileBaseNamesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3842/trunk/src/main/com/mucommander/ui/action/impl/CopyFileBaseNamesAction.java
+END
+ToggleSizeColumnAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/action/impl/ToggleSizeColumnAction.java
+END
+SetSameFolderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3878/trunk/src/main/com/mucommander/ui/action/impl/SetSameFolderAction.java
+END
+EditBookmarksAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3948/trunk/src/main/com/mucommander/ui/action/impl/EditBookmarksAction.java
+END

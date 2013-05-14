@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mucommander/!svn/ver/3946/trunk/src/main/com/mucommander/ui/tabs
+END
+TabsWithHeaderViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3943/trunk/src/main/com/mucommander/ui/tabs/TabsWithHeaderViewer.java
+END
+TabsEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3853/trunk/src/main/com/mucommander/ui/tabs/TabsEventListener.java
+END
+HideableTabbedPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3946/trunk/src/main/com/mucommander/ui/tabs/HideableTabbedPane.java
+END
+TabsViewerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3863/trunk/src/main/com/mucommander/ui/tabs/TabsViewerFactory.java
+END
+TabWithoutHeaderViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3943/trunk/src/main/com/mucommander/ui/tabs/TabWithoutHeaderViewer.java
+END
+TabbedPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mucommander/!svn/ver/3943/trunk/src/main/com/mucommander/ui/tabs/TabbedPane.java
+END
+TabsCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3857/trunk/src/main/com/mucommander/ui/tabs/TabsCollection.java
+END
+Tab.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/tabs/Tab.java
+END
+ActiveTabListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3869/trunk/src/main/com/mucommander/ui/tabs/ActiveTabListener.java
+END
+NullableTabsViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3943/trunk/src/main/com/mucommander/ui/tabs/NullableTabsViewer.java
+END
+TabUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mucommander/!svn/ver/3820/trunk/src/main/com/mucommander/ui/tabs/TabUpdater.java
+END
+TabsViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mucommander/!svn/ver/3943/trunk/src/main/com/mucommander/ui/tabs/TabsViewer.java
+END
+TabFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mucommander/!svn/ver/3804/trunk/src/main/com/mucommander/ui/tabs/TabFactory.java
+END

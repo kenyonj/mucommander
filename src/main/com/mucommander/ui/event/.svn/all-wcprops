@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mucommander/!svn/ver/3945/trunk/src/main/com/mucommander/ui/event
+END
+ActivePanelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/event/ActivePanelListener.java
+END
+LocationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3944/trunk/src/main/com/mucommander/ui/event/LocationManager.java
+END
+TableSelectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/event/TableSelectionListener.java
+END
+LocationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/event/LocationAdapter.java
+END
+LocationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3945/trunk/src/main/com/mucommander/ui/event/LocationEvent.java
+END
+LocationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/event/LocationListener.java
+END

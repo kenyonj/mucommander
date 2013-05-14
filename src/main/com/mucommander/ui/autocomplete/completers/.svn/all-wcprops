@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/autocomplete/completers
+END
+ComboboxOptionsCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/ComboboxOptionsCompleter.java
+END
+LocationCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/LocationCompleter.java
+END
+PathCompleter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/PathCompleter.java
+END
+ServiceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/ServiceFactory.java
+END
+Completer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/Completer.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/io/backup
+END
+BackupInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/io/backup/BackupInputStream.java
+END
+BackupConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/io/backup/BackupConstants.java
+END
+BackupOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/io/backup/BackupOutputStream.java
+END

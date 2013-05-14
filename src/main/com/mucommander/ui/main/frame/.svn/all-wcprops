@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mucommander/!svn/ver/3913/trunk/src/main/com/mucommander/ui/main/frame
+END
+MainFrameBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3899/trunk/src/main/com/mucommander/ui/main/frame/MainFrameBuilder.java
+END
+ClonedMainFrameBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3892/trunk/src/main/com/mucommander/ui/main/frame/ClonedMainFrameBuilder.java
+END
+CommandLineMainFrameBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/mucommander/!svn/ver/3899/trunk/src/main/com/mucommander/ui/main/frame/CommandLineMainFrameBuilder.java
+END
+DefaultMainFramesBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3913/trunk/src/main/com/mucommander/ui/main/frame/DefaultMainFramesBuilder.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mucommander/!svn/ver/3774/trunk/src/main/com/mucommander/auth
+END
+CredentialsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/auth/CredentialsManager.java
+END
+CredentialsMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/auth/CredentialsMapping.java
+END
+CredentialsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/auth/CredentialsConstants.java
+END
+CredentialsParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3774/trunk/src/main/com/mucommander/auth/CredentialsParser.java
+END
+CredentialsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/auth/CredentialsWriter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/auth/package.html
+END

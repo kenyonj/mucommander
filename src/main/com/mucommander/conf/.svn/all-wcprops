@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mucommander/!svn/ver/3913/trunk/src/main/com/mucommander/conf
+END
+MuPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3858/trunk/src/main/com/mucommander/conf/MuPreference.java
+END
+MuSnapshot.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3913/trunk/src/main/com/mucommander/conf/MuSnapshot.java
+END
+MuSnapshotFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/conf/MuSnapshotFile.java
+END
+VersionedXmlConfigurationReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/conf/VersionedXmlConfigurationReaderFactory.java
+END
+MuPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mucommander/!svn/ver/3904/trunk/src/main/com/mucommander/conf/MuPreferences.java
+END
+MuPreferencesFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/conf/MuPreferencesFile.java
+END
+VersionedXmlConfigurationWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3768/trunk/src/main/com/mucommander/conf/VersionedXmlConfigurationWriter.java
+END
+MuConfigurationFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3799/trunk/src/main/com/mucommander/conf/MuConfigurationFile.java
+END
+VersionedXmlConfigurationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/conf/VersionedXmlConfigurationReader.java
+END
+MuConfigurations.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/conf/MuConfigurations.java
+END
+VersionedXmlConfigurationWriterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mucommander/!svn/ver/3768/trunk/src/main/com/mucommander/conf/VersionedXmlConfigurationWriterFactory.java
+END
+MuPreferencesAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/conf/MuPreferencesAPI.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/conf/package.html
+END

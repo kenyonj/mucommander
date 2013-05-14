@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mucommander/!svn/ver/3796/trunk/src/main/com/mucommander/shell
+END
+ShellHistoryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/shell/ShellHistoryListener.java
+END
+ShellEncodingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3796/trunk/src/main/com/mucommander/shell/ShellEncodingListener.java
+END
+ShellHistoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/shell/ShellHistoryManager.java
+END
+ShellHistoryConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/shell/ShellHistoryConstants.java
+END
+ShellHistoryWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/shell/ShellHistoryWriter.java
+END
+Shell.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mucommander/!svn/ver/3796/trunk/src/main/com/mucommander/shell/Shell.java
+END
+ShellHistoryReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3774/trunk/src/main/com/mucommander/shell/ShellHistoryReader.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/shell/package.html
+END

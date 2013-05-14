@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/status_bar
+END
+trash.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/status_bar/trash.png
+END
+waiting.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/status_bar/waiting.png
+END
+quick_search_ko.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/status_bar/quick_search_ko.png
+END
+quick_search_ok.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/status_bar/quick_search_ok.png
+END

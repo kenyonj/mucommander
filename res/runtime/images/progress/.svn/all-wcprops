@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/progress
+END
+pause.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/progress/pause.png
+END
+resume.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/progress/resume.png
+END
+speed.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mucommander/!svn/ver/3639/trunk/res/runtime/images/progress/speed.png
+END
+stop.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mucommander/!svn/ver/3947/trunk/res/runtime/images/progress/stop.png
+END
+skip.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mucommander/!svn/ver/3683/trunk/res/runtime/images/progress/skip.png
+END

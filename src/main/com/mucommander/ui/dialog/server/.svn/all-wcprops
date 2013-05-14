@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server
+END
+HTTPPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server/HTTPPanel.java
+END
+ServerConnectDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server/ServerConnectDialog.java
+END
+SMBPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server/SMBPanel.java
+END
+HDFSPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server/HDFSPanel.java
+END
+S3Panel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server/S3Panel.java
+END
+NFSPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server/NFSPanel.java
+END
+ServerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server/ServerPanel.java
+END
+FTPPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server/FTPPanel.java
+END
+ShowServerConnectionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server/ShowServerConnectionsDialog.java
+END
+SFTPPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/server/SFTPPanel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/dialog/server/package.html
+END

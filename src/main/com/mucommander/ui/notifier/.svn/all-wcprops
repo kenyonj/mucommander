@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mucommander/!svn/ver/3774/trunk/src/main/com/mucommander/ui/notifier
+END
+AbstractNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/notifier/AbstractNotifier.java
+END
+SystemTrayNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/notifier/SystemTrayNotifier.java
+END
+NotificationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/notifier/NotificationType.java
+END
+GrowlNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3774/trunk/src/main/com/mucommander/ui/notifier/GrowlNotifier.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/notifier/package.html
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3923/trunk/src/main/com/mucommander/ui/layout
+END
+XBoxPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/layout/XBoxPanel.java
+END
+YBoxPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/layout/YBoxPanel.java
+END
+ProportionalSplitPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/layout/ProportionalSplitPane.java
+END
+InformationPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/layout/InformationPane.java
+END
+AsyncPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/layout/AsyncPanel.java
+END
+FluentPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3923/trunk/src/main/com/mucommander/ui/layout/FluentPanel.java
+END
+ProportionalGridPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/layout/ProportionalGridPanel.java
+END
+SpringUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3834/trunk/src/main/com/mucommander/ui/layout/SpringUtilities.java
+END
+XAlignedComponentPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/layout/XAlignedComponentPanel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/layout/package.html
+END

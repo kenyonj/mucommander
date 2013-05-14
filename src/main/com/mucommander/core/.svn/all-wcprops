@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mucommander/!svn/ver/3943/trunk/src/main/com/mucommander/core
+END
+LocationChanger.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mucommander/!svn/ver/3943/trunk/src/main/com/mucommander/core/LocationChanger.java
+END
+LocalLocationHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3898/trunk/src/main/com/mucommander/core/LocalLocationHistory.java
+END
+FolderChangeMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3937/trunk/src/main/com/mucommander/core/FolderChangeMonitor.java
+END
+GlobalLocationHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3897/trunk/src/main/com/mucommander/core/GlobalLocationHistory.java
+END

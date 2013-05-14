@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog
+END
+FocusDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/dialog/FocusDialog.java
+END
+DialogToolkit.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3885/trunk/src/main/com/mucommander/ui/dialog/DialogToolkit.java
+END
+InformationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/InformationDialog.java
+END
+QuestionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/QuestionDialog.java
+END
+DialogOwner.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/DialogOwner.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/dialog/package.html
+END

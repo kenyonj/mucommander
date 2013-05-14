@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/autocomplete/completers/services
+END
+FilteredFilesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/services/FilteredFilesService.java
+END
+FilesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/autocomplete/completers/services/FilesService.java
+END
+PrefixFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/services/PrefixFilter.java
+END
+BookmarksService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/services/BookmarksService.java
+END
+CompletionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/services/CompletionService.java
+END
+VolumesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/services/VolumesService.java
+END
+AllFilesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/services/AllFilesService.java
+END
+SystemVariablesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/completers/services/SystemVariablesService.java
+END

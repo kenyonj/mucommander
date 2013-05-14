@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/encoding
+END
+EncodingSelectBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/encoding/EncodingSelectBox.java
+END
+EncodingPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/encoding/EncodingPreferences.java
+END
+PreferredEncodingsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/encoding/PreferredEncodingsDialog.java
+END
+EncodingMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/encoding/EncodingMenu.java
+END
+EncodingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/encoding/EncodingListener.java
+END

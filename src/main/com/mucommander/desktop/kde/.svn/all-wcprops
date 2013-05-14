@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/desktop/kde
+END
+GuessedKde3DesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/kde/GuessedKde3DesktopAdapter.java
+END
+Kde3DesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/kde/Kde3DesktopAdapter.java
+END
+GuessedKde4DesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/kde/GuessedKde4DesktopAdapter.java
+END
+Kde4DesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/kde/Kde4DesktopAdapter.java
+END
+Kde3TrashProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/kde/Kde3TrashProvider.java
+END
+Kde4TrashProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/kde/Kde4TrashProvider.java
+END
+KdeTrash.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/desktop/kde/KdeTrash.java
+END
+ConfiguredKde3DesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/kde/ConfiguredKde3DesktopAdapter.java
+END
+ConfiguredKde4DesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/kde/ConfiguredKde4DesktopAdapter.java
+END
+KdeConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/desktop/kde/KdeConfig.java
+END
+KdeDesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/desktop/kde/KdeDesktopAdapter.java
+END

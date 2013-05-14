@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mucommander/!svn/ver/3929/trunk/src/main/com/mucommander/ui/main/quicklist
+END
+RootFoldersQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3808/trunk/src/main/com/mucommander/ui/main/quicklist/RootFoldersQL.java
+END
+BookmarksQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3808/trunk/src/main/com/mucommander/ui/main/quicklist/BookmarksQL.java
+END
+ParentFoldersQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3808/trunk/src/main/com/mucommander/ui/main/quicklist/ParentFoldersQL.java
+END
+TabsQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3929/trunk/src/main/com/mucommander/ui/main/quicklist/TabsQL.java
+END
+RecentExecutedFilesQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/mucommander/!svn/ver/3808/trunk/src/main/com/mucommander/ui/main/quicklist/RecentExecutedFilesQL.java
+END
+RecentLocationsQL.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3897/trunk/src/main/com/mucommander/ui/main/quicklist/RecentLocationsQL.java
+END

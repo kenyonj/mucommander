@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/file
+END
+CalculateChecksumDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/file/CalculateChecksumDialog.java
+END
+ChangePermissionsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/ChangePermissionsDialog.java
+END
+UnpackDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/file/UnpackDialog.java
+END
+BatchRenameConfirmationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/BatchRenameConfirmationDialog.java
+END
+FileCollisionRenameDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/FileCollisionRenameDialog.java
+END
+ChangeDateDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3924/trunk/src/main/com/mucommander/ui/dialog/file/ChangeDateDialog.java
+END
+FileSelectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/dialog/file/FileSelectionDialog.java
+END
+LocalCopyDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/LocalCopyDialog.java
+END
+TransferDestinationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/file/TransferDestinationDialog.java
+END
+FileCollisionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/FileCollisionDialog.java
+END
+SplitFileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/file/SplitFileDialog.java
+END
+PropertiesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/PropertiesDialog.java
+END
+AbstractCopyDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/file/AbstractCopyDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/dialog/file/package.html
+END
+CombineFilesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/dialog/file/CombineFilesDialog.java
+END
+DeleteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/DeleteDialog.java
+END
+ProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/dialog/file/ProgressDialog.java
+END
+BatchRenameSelectRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/BatchRenameSelectRange.java
+END
+MkdirDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/file/MkdirDialog.java
+END
+MoveDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/MoveDialog.java
+END
+DownloadDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/file/DownloadDialog.java
+END
+BatchRenameDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3774/trunk/src/main/com/mucommander/ui/dialog/file/BatchRenameDialog.java
+END
+JobDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/JobDialog.java
+END
+EmailFilesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/dialog/file/EmailFilesDialog.java
+END
+CopyDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/CopyDialog.java
+END
+PathFieldContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/file/PathFieldContent.java
+END
+PackDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/dialog/file/PackDialog.java
+END

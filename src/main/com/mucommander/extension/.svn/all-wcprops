@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/extension
+END
+ExtensionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/extension/ExtensionManager.java
+END
+LookAndFeelFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/extension/LookAndFeelFilter.java
+END
+ClassFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/extension/ClassFilter.java
+END
+ClassFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/extension/ClassFinder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/extension/package.html
+END

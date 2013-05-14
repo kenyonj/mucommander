@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3858/trunk/src/main/com/mucommander/ui/dialog/pref/general
+END
+AppearancePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3769/trunk/src/main/com/mucommander/ui/dialog/pref/general/AppearancePanel.java
+END
+GeneralPreferencesDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/general/GeneralPreferencesDialog.java
+END
+MailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/dialog/pref/general/MailPanel.java
+END
+ThemeNameDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/general/ThemeNameDialog.java
+END
+ShortcutsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3800/trunk/src/main/com/mucommander/ui/dialog/pref/general/ShortcutsTable.java
+END
+MiscPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/dialog/pref/general/MiscPanel.java
+END
+GeneralPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/dialog/pref/general/GeneralPanel.java
+END
+FoldersPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3858/trunk/src/main/com/mucommander/ui/dialog/pref/general/FoldersPanel.java
+END
+ShortcutsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/general/ShortcutsPanel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/dialog/pref/general/package.html
+END

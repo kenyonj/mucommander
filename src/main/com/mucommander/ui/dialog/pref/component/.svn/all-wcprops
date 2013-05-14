@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3769/trunk/src/main/com/mucommander/ui/dialog/pref/component
+END
+PrefComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/component/PrefComponent.java
+END
+PrefCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/component/PrefCheckBox.java
+END
+PrefTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/component/PrefTable.java
+END
+PrefComboBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3769/trunk/src/main/com/mucommander/ui/dialog/pref/component/PrefComboBox.java
+END
+PrefTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/component/PrefTextField.java
+END
+PrefRadioButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/component/PrefRadioButton.java
+END
+PrefEncodingSelectBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/component/PrefEncodingSelectBox.java
+END
+PrefFilePathField.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/component/PrefFilePathField.java
+END

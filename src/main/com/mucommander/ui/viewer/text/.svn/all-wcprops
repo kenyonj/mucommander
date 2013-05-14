@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3958/trunk/src/main/com/mucommander/ui/viewer/text
+END
+FindDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/viewer/text/FindDialog.java
+END
+TextViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3958/trunk/src/main/com/mucommander/ui/viewer/text/TextViewer.java
+END
+TextLineNumbersPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3799/trunk/src/main/com/mucommander/ui/viewer/text/TextLineNumbersPanel.java
+END
+TextEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3958/trunk/src/main/com/mucommander/ui/viewer/text/TextEditor.java
+END
+TextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/viewer/text/TextFactory.java
+END
+TextEditorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3799/trunk/src/main/com/mucommander/ui/viewer/text/TextEditorImpl.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/viewer/text/package.html
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/job/progress
+END
+JobProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/job/progress/JobProgress.java
+END
+JobProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/job/progress/JobProgressListener.java
+END
+JobProgressMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/job/progress/JobProgressMonitor.java
+END

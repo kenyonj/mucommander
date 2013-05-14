@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/autocomplete
+END
+CompleterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/CompleterFactory.java
+END
+TextFieldCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/autocomplete/TextFieldCompletion.java
+END
+OtherTextComponentCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/autocomplete/OtherTextComponentCompletion.java
+END
+AutocompleterTextComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/AutocompleterTextComponent.java
+END
+CompletionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/CompletionType.java
+END
+EditableComboboxCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/autocomplete/EditableComboboxCompletion.java
+END
+TypicalAutocompleterEditableCombobox.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/TypicalAutocompleterEditableCombobox.java
+END
+BasicAutocompleterTextComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/autocomplete/BasicAutocompleterTextComponent.java
+END

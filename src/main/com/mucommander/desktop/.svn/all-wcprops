@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/desktop
+END
+CommandOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/CommandOpen.java
+END
+CommandBrowse.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/CommandBrowse.java
+END
+DesktopManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3796/trunk/src/main/com/mucommander/desktop/DesktopManager.java
+END
+AbstractTrash.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/AbstractTrash.java
+END
+DesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/DesktopAdapter.java
+END
+LocalFileOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/LocalFileOperation.java
+END
+DefaultDesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/desktop/DefaultDesktopAdapter.java
+END
+CommandOpenInFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/CommandOpenInFileManager.java
+END
+UrlOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/UrlOperation.java
+END
+DesktopInitialisationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/DesktopInitialisationException.java
+END
+DesktopOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/DesktopOperation.java
+END
+QueuedTrash.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/QueuedTrash.java
+END
+TrashProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/TrashProvider.java
+END
+InternalBrowse.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/InternalBrowse.java
+END
+InternalOpen.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/InternalOpen.java
+END

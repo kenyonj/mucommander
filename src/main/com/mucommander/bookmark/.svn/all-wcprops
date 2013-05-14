@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/mucommander/!svn/ver/3774/trunk/src/main/com/mucommander/bookmark
+END
+BookmarkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/bookmark/BookmarkManager.java
+END
+BookmarkConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/bookmark/BookmarkConstants.java
+END
+BookmarkParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3774/trunk/src/main/com/mucommander/bookmark/BookmarkParser.java
+END
+BookmarkWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/bookmark/BookmarkWriter.java
+END
+XORCipher.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/bookmark/XORCipher.java
+END
+BookmarkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/bookmark/BookmarkException.java
+END
+Bookmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/bookmark/Bookmark.java
+END
+BookmarkListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/bookmark/BookmarkListener.java
+END
+BookmarkBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/bookmark/BookmarkBuilder.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/bookmark/package.html
+END

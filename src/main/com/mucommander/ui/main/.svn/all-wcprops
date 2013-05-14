@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mucommander/!svn/ver/3954/trunk/src/main/com/mucommander/ui/main
+END
+MainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3940/trunk/src/main/com/mucommander/ui/main/MainFrame.java
+END
+TrashPopupButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/main/TrashPopupButton.java
+END
+LocationTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3799/trunk/src/main/com/mucommander/ui/main/LocationTextField.java
+END
+ConfigurableFolderFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3766/trunk/src/main/com/mucommander/ui/main/ConfigurableFolderFilter.java
+END
+WindowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3892/trunk/src/main/com/mucommander/ui/main/WindowManager.java
+END
+StatusBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/ui/main/StatusBar.java
+END
+DrivePopupButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3799/trunk/src/main/com/mucommander/ui/main/DrivePopupButton.java
+END
+DSStoreFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/main/DSStoreFileFilter.java
+END
+SystemFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/main/SystemFileFilter.java
+END
+SplashScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/main/SplashScreen.java
+END
+QuickLists.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mucommander/!svn/ver/3805/trunk/src/main/com/mucommander/ui/main/QuickLists.java
+END
+FolderPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3943/trunk/src/main/com/mucommander/ui/main/FolderPanel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/main/package.html
+END

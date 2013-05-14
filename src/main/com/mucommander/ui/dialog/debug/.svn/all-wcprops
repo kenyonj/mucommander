@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mucommander/!svn/ver/3799/trunk/src/main/com/mucommander/ui/dialog/debug
+END
+DebugConsoleAppender.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3799/trunk/src/main/com/mucommander/ui/dialog/debug/DebugConsoleAppender.java
+END
+LoggingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3763/trunk/src/main/com/mucommander/ui/dialog/debug/LoggingEvent.java
+END
+DebugConsoleDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3770/trunk/src/main/com/mucommander/ui/dialog/debug/DebugConsoleDialog.java
+END

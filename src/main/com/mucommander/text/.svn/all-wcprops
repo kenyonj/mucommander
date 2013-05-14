@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/mucommander/!svn/ver/3796/trunk/src/main/com/mucommander/text
+END
+CustomDateFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/mucommander/!svn/ver/3774/trunk/src/main/com/mucommander/text/CustomDateFormat.java
+END
+SizeFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/text/SizeFormat.java
+END
+Translator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3796/trunk/src/main/com/mucommander/text/Translator.java
+END
+DurationFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/text/DurationFormat.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/mucommander/!svn/ver/3930/trunk/src/main/com/mucommander/ui/icon
+END
+SpinningDial.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/icon/SpinningDial.java
+END
+IconManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/icon/IconManager.java
+END
+EmptyIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3930/trunk/src/main/com/mucommander/ui/icon/EmptyIcon.java
+END
+AnimatedIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/icon/AnimatedIcon.java
+END
+FileIcons.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/icon/FileIcons.java
+END
+CustomFileIconProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/icon/CustomFileIconProvider.java
+END

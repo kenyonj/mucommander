@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/mucommander/!svn/ver/3963/trunk/src/main/com/mucommander
+END
+PlatformManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/PlatformManager.java
+END
+RuntimeConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/RuntimeConstants.java
+END
+Launcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/Launcher.java
+END
+MuLogging.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3774/trunk/src/main/com/mucommander/MuLogging.java
+END
+StressTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mucommander/!svn/ver/3934/trunk/src/main/com/mucommander/StressTester.java
+END
+VersionChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/VersionChecker.java
+END
+ShutdownHook.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ShutdownHook.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/package.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/desktop/gnome
+END
+GnomeDesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/desktop/gnome/GnomeDesktopAdapter.java
+END
+GuessedGnomeDesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/gnome/GuessedGnomeDesktopAdapter.java
+END
+GnomeTrashProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/gnome/GnomeTrashProvider.java
+END
+ConfiguredGnomeDesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/gnome/ConfiguredGnomeDesktopAdapter.java
+END
+GnomeTrash.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/desktop/gnome/GnomeTrash.java
+END
+GnomeConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/desktop/gnome/GnomeConfig.java
+END

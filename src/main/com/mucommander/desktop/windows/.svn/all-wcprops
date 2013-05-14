@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/desktop/windows
+END
+WindowsDesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/windows/WindowsDesktopAdapter.java
+END
+WindowsTrashProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/windows/WindowsTrashProvider.java
+END
+Win9xDesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/desktop/windows/Win9xDesktopAdapter.java
+END
+WinNtDesktopAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3952/trunk/src/main/com/mucommander/desktop/windows/WinNtDesktopAdapter.java
+END
+WindowsTrash.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/desktop/windows/WindowsTrash.java
+END

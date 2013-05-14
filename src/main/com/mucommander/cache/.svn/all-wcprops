@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/cache
+END
+FastLRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/cache/FastLRUCache.java
+END
+LRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/cache/LRUCache.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/cache/package.html
+END

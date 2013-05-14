@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/dialog/auth
+END
+AuthDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/auth/AuthDialog.java
+END
+EditCredentialsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/dialog/auth/EditCredentialsDialog.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/dialog/auth/package.html
+END

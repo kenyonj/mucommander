@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/mucommander/!svn/ver/3798/trunk/src/main/com/mucommander/ui/chooser
+END
+KeyboardShortcutChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3759/trunk/src/main/com/mucommander/ui/chooser/KeyboardShortcutChooser.java
+END
+IntegerChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/chooser/IntegerChooser.java
+END
+ColorChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/chooser/ColorChooser.java
+END
+PreviewLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/chooser/PreviewLabel.java
+END
+ColorChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/chooser/ColorChangeEvent.java
+END
+FontChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3798/trunk/src/main/com/mucommander/ui/chooser/FontChooser.java
+END
+ColorChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/chooser/ColorChangeListener.java
+END
+ColorPicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/chooser/ColorPicker.java
+END
+SizeChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/chooser/SizeChooser.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/chooser/package.html
+END

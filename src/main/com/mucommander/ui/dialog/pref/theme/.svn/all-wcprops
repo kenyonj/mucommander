@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/mucommander/!svn/ver/3926/trunk/src/main/com/mucommander/ui/dialog/pref/theme
+END
+FilePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/theme/FilePanel.java
+END
+FolderPanePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/theme/FolderPanePanel.java
+END
+FilePreviewPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/theme/FilePreviewPanel.java
+END
+FileEditorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/theme/FileEditorPanel.java
+END
+ShellPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/theme/ShellPanel.java
+END
+QuickListPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3926/trunk/src/main/com/mucommander/ui/dialog/pref/theme/QuickListPanel.java
+END
+StatusBarPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/theme/StatusBarPanel.java
+END
+ThemeEditorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/theme/ThemeEditorDialog.java
+END
+ThemeEditorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/theme/ThemeEditorPanel.java
+END
+ColorButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/theme/ColorButton.java
+END
+LocationBarPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mucommander/!svn/ver/3744/trunk/src/main/com/mucommander/ui/dialog/pref/theme/LocationBarPanel.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mucommander/!svn/ver/3639/trunk/src/main/com/mucommander/ui/dialog/pref/theme/package.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/mucommander/!svn/ver/3929/trunk/src/main/com/mucommander/ui/quicklist
+END
+QuickListWithIcons.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3926/trunk/src/main/com/mucommander/ui/quicklist/QuickListWithIcons.java
+END
+QuickList.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/mucommander/!svn/ver/3808/trunk/src/main/com/mucommander/ui/quicklist/QuickList.java
+END
+QuickListWithoutIcons.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3808/trunk/src/main/com/mucommander/ui/quicklist/QuickListWithoutIcons.java
+END
+QuickListWithDataList.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3810/trunk/src/main/com/mucommander/ui/quicklist/QuickListWithDataList.java
+END
+QuickListWithEmptyMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mucommander/!svn/ver/3808/trunk/src/main/com/mucommander/ui/quicklist/QuickListWithEmptyMsg.java
+END
+QuickListContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mucommander/!svn/ver/3808/trunk/src/main/com/mucommander/ui/quicklist/QuickListContainer.java
+END

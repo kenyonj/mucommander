@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/mucommander/!svn/ver/3965/trunk
+END
+build_template.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/mucommander/!svn/ver/3785/trunk/build_template.properties
+END
+compile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/mucommander/!svn/ver/3809/trunk/compile.txt
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/mucommander/!svn/ver/3964/trunk/readme.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/mucommander/!svn/ver/3887/trunk/build.xml
+END
